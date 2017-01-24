@@ -1,0 +1,80 @@
+html{
+  font-family: arial;
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.navbar {
+  background: grey;
+  padding: 4px;
+  padding-left: 7px;
+}
+.navbar span {
+  display: inline-block;
+  color:  black;
+}
+.nav-title a {
+
+  font-size:20px;
+  font-family: "Arial Rounded MT Bold";
+  font-weight: bold;
+}
+.login {
+  float: right;
+}
+.logo {
+  border: 1px solid white;
+  padding: 1px;
+  width: 20px;
+  text-align: center;
+  font-family: serif;
+}
+
+.logo a {
+  font-weight:  bold;
+  color:  white;
+  text-decoration: none;
+ font-size: 16px;
+}
+hr {
+  height: 5px;
+  background-color: grey;
+}
+
+
+.source-link {
+  color: grey;
+}
+.subtext {
+  font-size: 14px;
+  color: grey;
+  margin-left: 14px;
+}
+.newsfeed {
+  background-color: #EBEDF0;
+}
+.newsfeed ol {
+  margin: 0;
+  color: grey;
+}
+.newsfeed li {
+  padding-top: 8px;
+}
+.newsfeed li a {
+  font-size: 18px;
+}
+.footer-links {
+  text-align:  center;
+  margin-top: 14px;
+}
+.more {
+  margin-left: 14px;
+}
+.Search {
+  text-align: center;
+  margin-top: 15px;
+}
